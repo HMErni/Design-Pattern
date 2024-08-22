@@ -1,0 +1,25 @@
+using FactoryMethod.Interfaces;
+
+namespace FactoryMethod.Model;
+
+
+public class Ferrari : ICar
+{
+    public string _model { get; init; } = string.Empty;
+    public string _color { get; init; } = string.Empty;
+
+    public void Describe()
+    {
+        Console.WriteLine($"The {_model} is a {_color} car.");
+    }
+
+    public void Start()
+    {
+        Console.WriteLine($"The {_model} is starting...");
+    }
+
+    public void Stop()
+    {
+        Console.WriteLine($"The {_model} is stopping...");
+    }
+}
