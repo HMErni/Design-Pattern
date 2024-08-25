@@ -1,0 +1,15 @@
+D:\Development\Design-Pattern\Adapter Pattern\bin\Debug\net8.0\Adapter Pattern.exe
+D:\Development\Design-Pattern\Adapter Pattern\bin\Debug\net8.0\Adapter Pattern.deps.json
+D:\Development\Design-Pattern\Adapter Pattern\bin\Debug\net8.0\Adapter Pattern.runtimeconfig.json
+D:\Development\Design-Pattern\Adapter Pattern\bin\Debug\net8.0\Adapter Pattern.dll
+D:\Development\Design-Pattern\Adapter Pattern\bin\Debug\net8.0\Adapter Pattern.pdb
+D:\Development\Design-Pattern\Adapter Pattern\obj\Debug\net8.0\Adapter Pattern.GeneratedMSBuildEditorConfig.editorconfig
+D:\Development\Design-Pattern\Adapter Pattern\obj\Debug\net8.0\Adapter Pattern.AssemblyInfoInputs.cache
+D:\Development\Design-Pattern\Adapter Pattern\obj\Debug\net8.0\Adapter Pattern.AssemblyInfo.cs
+D:\Development\Design-Pattern\Adapter Pattern\obj\Debug\net8.0\Adapter Pattern.csproj.CoreCompileInputs.cache
+D:\Development\Design-Pattern\Adapter Pattern\obj\Debug\net8.0\Adapter Pattern.sourcelink.json
+D:\Development\Design-Pattern\Adapter Pattern\obj\Debug\net8.0\Adapter Pattern.dll
+D:\Development\Design-Pattern\Adapter Pattern\obj\Debug\net8.0\refint\Adapter Pattern.dll
+D:\Development\Design-Pattern\Adapter Pattern\obj\Debug\net8.0\Adapter Pattern.pdb
+D:\Development\Design-Pattern\Adapter Pattern\obj\Debug\net8.0\Adapter Pattern.genruntimeconfig.cache
+D:\Development\Design-Pattern\Adapter Pattern\obj\Debug\net8.0\ref\Adapter Pattern.dll
