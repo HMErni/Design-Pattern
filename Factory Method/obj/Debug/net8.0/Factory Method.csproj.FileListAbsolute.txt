@@ -12,3 +12,18 @@ c:\_ERNI-Hero\_Design Pattern\Factory Method\obj\Debug\net8.0\refint\Factory Met
 c:\_ERNI-Hero\_Design Pattern\Factory Method\obj\Debug\net8.0\Factory Method.pdb
 c:\_ERNI-Hero\_Design Pattern\Factory Method\obj\Debug\net8.0\Factory Method.genruntimeconfig.cache
 c:\_ERNI-Hero\_Design Pattern\Factory Method\obj\Debug\net8.0\ref\Factory Method.dll
+D:\Development\Design-Pattern\Factory Method\bin\Debug\net8.0\Factory Method.exe
+D:\Development\Design-Pattern\Factory Method\bin\Debug\net8.0\Factory Method.deps.json
+D:\Development\Design-Pattern\Factory Method\bin\Debug\net8.0\Factory Method.runtimeconfig.json
+D:\Development\Design-Pattern\Factory Method\bin\Debug\net8.0\Factory Method.dll
+D:\Development\Design-Pattern\Factory Method\bin\Debug\net8.0\Factory Method.pdb
+D:\Development\Design-Pattern\Factory Method\obj\Debug\net8.0\Factory Method.GeneratedMSBuildEditorConfig.editorconfig
+D:\Development\Design-Pattern\Factory Method\obj\Debug\net8.0\Factory Method.AssemblyInfoInputs.cache
+D:\Development\Design-Pattern\Factory Method\obj\Debug\net8.0\Factory Method.AssemblyInfo.cs
+D:\Development\Design-Pattern\Factory Method\obj\Debug\net8.0\Factory Method.csproj.CoreCompileInputs.cache
+D:\Development\Design-Pattern\Factory Method\obj\Debug\net8.0\Factory Method.sourcelink.json
+D:\Development\Design-Pattern\Factory Method\obj\Debug\net8.0\Factory Method.dll
+D:\Development\Design-Pattern\Factory Method\obj\Debug\net8.0\refint\Factory Method.dll
+D:\Development\Design-Pattern\Factory Method\obj\Debug\net8.0\Factory Method.pdb
+D:\Development\Design-Pattern\Factory Method\obj\Debug\net8.0\Factory Method.genruntimeconfig.cache
+D:\Development\Design-Pattern\Factory Method\obj\Debug\net8.0\ref\Factory Method.dll

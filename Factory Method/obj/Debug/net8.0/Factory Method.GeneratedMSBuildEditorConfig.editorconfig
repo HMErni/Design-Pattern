@@ -8,6 +8,6 @@ build_property.PlatformNeutralAssembly =
 build_property.EnforceExtendedAnalyzerRules = 
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = Factory_Method
-build_property.ProjectDir = C:\_ERNI-Hero\_Design Pattern\Factory Method\
+build_property.ProjectDir = D:\Development\Design-Pattern\Factory Method\
 build_property.EnableComHosting = 
 build_property.EnableGeneratedComInterfaceComImportInterop = 
