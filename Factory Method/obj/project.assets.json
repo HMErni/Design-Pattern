@@ -8,24 +8,27 @@
     "net8.0": []
   },
   "packageFolders": {
-    "C:\\Users\\Hero\\.nuget\\packages\\": {}
+    "C:\\Users\\Boot Camp\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Development\\Design-Pattern\\Factory Method\\Factory Method.csproj",
+      "projectUniqueName": "C:\\_ERNI-Hero\\Design-Pattern\\Factory Method\\Factory Method.csproj",
       "projectName": "Factory Method",
-      "projectPath": "D:\\Development\\Design-Pattern\\Factory Method\\Factory Method.csproj",
-      "packagesPath": "C:\\Users\\Hero\\.nuget\\packages\\",
-      "outputPath": "D:\\Development\\Design-Pattern\\Factory Method\\obj\\",
+      "projectPath": "C:\\_ERNI-Hero\\Design-Pattern\\Factory Method\\Factory Method.csproj",
+      "packagesPath": "C:\\Users\\Boot Camp\\.nuget\\packages\\",
+      "outputPath": "C:\\_ERNI-Hero\\Design-Pattern\\Factory Method\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\Hero\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        "C:\\Users\\Boot Camp\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
         "net8.0"
       ],
       "sources": {
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+        "C:\\Program Files\\dotnet\\library-packs": {},
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {

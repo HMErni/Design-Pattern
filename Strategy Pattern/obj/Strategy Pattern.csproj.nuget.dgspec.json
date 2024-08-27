@@ -1,25 +1,28 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Development\\Design-Pattern\\Strategy Pattern\\Strategy Pattern.csproj": {}
+    "C:\\_ERNI-Hero\\Design-Pattern\\Strategy Pattern\\Strategy Pattern.csproj": {}
   },
   "projects": {
-    "D:\\Development\\Design-Pattern\\Strategy Pattern\\Strategy Pattern.csproj": {
+    "C:\\_ERNI-Hero\\Design-Pattern\\Strategy Pattern\\Strategy Pattern.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Development\\Design-Pattern\\Strategy Pattern\\Strategy Pattern.csproj",
+        "projectUniqueName": "C:\\_ERNI-Hero\\Design-Pattern\\Strategy Pattern\\Strategy Pattern.csproj",
         "projectName": "Strategy Pattern",
-        "projectPath": "D:\\Development\\Design-Pattern\\Strategy Pattern\\Strategy Pattern.csproj",
-        "packagesPath": "C:\\Users\\Hero\\.nuget\\packages\\",
-        "outputPath": "D:\\Development\\Design-Pattern\\Strategy Pattern\\obj\\",
+        "projectPath": "C:\\_ERNI-Hero\\Design-Pattern\\Strategy Pattern\\Strategy Pattern.csproj",
+        "packagesPath": "C:\\Users\\Boot Camp\\.nuget\\packages\\",
+        "outputPath": "C:\\_ERNI-Hero\\Design-Pattern\\Strategy Pattern\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\Hero\\AppData\\Roaming\\NuGet\\NuGet.Config"
+          "C:\\Users\\Boot Camp\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
           "net8.0"
         ],
         "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {

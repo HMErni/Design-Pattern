@@ -8,6 +8,6 @@ build_property.PlatformNeutralAssembly =
 build_property.EnforceExtendedAnalyzerRules = 
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = Strategy_Pattern
-build_property.ProjectDir = D:\Development\Design-Pattern\Strategy Pattern\
+build_property.ProjectDir = C:\_ERNI-Hero\Design-Pattern\Strategy Pattern\
 build_property.EnableComHosting = 
 build_property.EnableGeneratedComInterfaceComImportInterop = 
