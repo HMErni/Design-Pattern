@@ -1,0 +1,15 @@
+C:\_ERNI-Hero\Design-Pattern\Facade Pattern\bin\Debug\net8.0\Facade Pattern.exe
+C:\_ERNI-Hero\Design-Pattern\Facade Pattern\bin\Debug\net8.0\Facade Pattern.deps.json
+C:\_ERNI-Hero\Design-Pattern\Facade Pattern\bin\Debug\net8.0\Facade Pattern.runtimeconfig.json
+C:\_ERNI-Hero\Design-Pattern\Facade Pattern\bin\Debug\net8.0\Facade Pattern.dll
+C:\_ERNI-Hero\Design-Pattern\Facade Pattern\bin\Debug\net8.0\Facade Pattern.pdb
+C:\_ERNI-Hero\Design-Pattern\Facade Pattern\obj\Debug\net8.0\Facade Pattern.GeneratedMSBuildEditorConfig.editorconfig
+C:\_ERNI-Hero\Design-Pattern\Facade Pattern\obj\Debug\net8.0\Facade Pattern.AssemblyInfoInputs.cache
+C:\_ERNI-Hero\Design-Pattern\Facade Pattern\obj\Debug\net8.0\Facade Pattern.AssemblyInfo.cs
+C:\_ERNI-Hero\Design-Pattern\Facade Pattern\obj\Debug\net8.0\Facade Pattern.csproj.CoreCompileInputs.cache
+C:\_ERNI-Hero\Design-Pattern\Facade Pattern\obj\Debug\net8.0\Facade Pattern.sourcelink.json
+C:\_ERNI-Hero\Design-Pattern\Facade Pattern\obj\Debug\net8.0\Facade Pattern.dll
+C:\_ERNI-Hero\Design-Pattern\Facade Pattern\obj\Debug\net8.0\refint\Facade Pattern.dll
+C:\_ERNI-Hero\Design-Pattern\Facade Pattern\obj\Debug\net8.0\Facade Pattern.pdb
+C:\_ERNI-Hero\Design-Pattern\Facade Pattern\obj\Debug\net8.0\Facade Pattern.genruntimeconfig.cache
+C:\_ERNI-Hero\Design-Pattern\Facade Pattern\obj\Debug\net8.0\ref\Facade Pattern.dll
