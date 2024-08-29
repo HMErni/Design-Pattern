@@ -11,16 +11,19 @@ public class Program
         FerrariFactory ferrariFactory = new FerrariFactory();
         ToyotaFactory toyotaFactory = new ToyotaFactory();
 
-        ICar ferrariCar = ferrariFactory.CreateCar("F-Normal-Car", "Black", 10000);
-        ISuperCar ferrariSuperCar = ferrariFactory.CreateSuperCar("F-Super-Car", "Red and Black", 100000);
+        var ferrariCars = new List<ICar>();
+        var toyotaCars = new List<ICar>();
 
 
-        ICar toyotaCar = toyotaFactory.CreateCar("T-Normal-Car", "Red", 5000);
-        IIndustrialCar toyotaIndustrialCar = toyotaFactory.CreateIndustrialCar("T-Industrial-Car", "Yellow", 7500);
-        ISuperCar toyotaSuperCar = toyotaFactory.CreateSuperCar("T-Super-Car", "Red and Yellow", 50000);
+        ferrariCars.Add(ferrariFactory.CreateCar("F-Normal-Car", "Black", 10000));
+        ferrariCars.Add(ferrariFactory.CreateSuperCar("F-Super-Car", "Red and Black", 100000));
 
-        var ferrariCars = new List<ICar>() { ferrariCar, ferrariSuperCar };
-        var toyotaCars = new List<ICar>() { toyotaCar, toyotaIndustrialCar, toyotaSuperCar };
+
+        toyotaCars.Add(toyotaFactory.CreateCar("T-Normal-Car", "Red", 5000));
+        toyotaCars.Add(toyotaFactory.CreateIndustrialCar("T-Industrial-Car", "Yellow", 7500));
+        toyotaCars.Add(toyotaFactory.CreateSuperCar("T-Super-Car", "Red and Yellow", 50000));
+
+
 
         Console.WriteLine("\n\nFerrari Cars:");
         foreach (var car in ferrariCars)
@@ -31,37 +34,37 @@ public class Program
             Console.WriteLine(car);
 
 
-        Console.WriteLine("\n\nTest Ferrari Cars:");
-        foreach (var car in ferrariCars)
-        {
+        // Console.WriteLine("\n\nTest Ferrari Cars:");
+        // foreach (var car in ferrariCars)
+        // {
 
-            car.Describe();
-            car.Start();
+        //     car.Describe();
+        //     car.Start();
 
-            if (car is ISuperCar superCar)
-                superCar.GonnaGoFast();
+        //     if (car is ISuperCar superCar)
+        //         superCar.GonnaGoFast();
 
-            if (car is IIndustrialCar industrialCar)
-                industrialCar.DoSomethingIndustrial();
+        //     if (car is IIndustrialCar industrialCar)
+        //         industrialCar.DoSomethingIndustrial();
 
-            car.Stop();
-        }
+        //     car.Stop();
+        // }
 
-        Console.WriteLine("\n\nTest Toyota Cars:");
-        foreach (var car in toyotaCars)
-        {
-            car.Describe();
-            car.Start();
+        // Console.WriteLine("\n\nTest Toyota Cars:");
+        // foreach (var car in toyotaCars)
+        // {
+        //     car.Describe();
+        //     car.Start();
 
-            if (car is ISuperCar superCar)
-                superCar.GonnaGoFast();
+        //     if (car is ISuperCar superCar)
+        //         superCar.GonnaGoFast();
 
-            if (car is IIndustrialCar industrialCar)
-                industrialCar.DoSomethingIndustrial();
+        //     if (car is IIndustrialCar industrialCar)
+        //         industrialCar.DoSomethingIndustrial();
 
-            car.Stop();
+        //     car.Stop();
 
-            Console.WriteLine("");
-        }
+        //     Console.WriteLine("");
+        // }
     }
 }
