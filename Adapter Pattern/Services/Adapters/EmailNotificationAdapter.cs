@@ -14,6 +14,7 @@ public class EmailNotificationAdapter : INotification
 
     public void Notify(string recipient, string message)
     {
-        _emailNotificationService.SendEmail(recipient, message);
+        string subject = "Notification";
+        _emailNotificationService.SendEmail(recipient, subject, message);
     }
 }

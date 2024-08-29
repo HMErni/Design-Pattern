@@ -4,7 +4,7 @@ namespace AdapterPattern.Services;
 
 public class EmailNotification
 {
-    public void SendEmail(string recipient, string message)
+    public void SendEmail(string recipient, string subject, string message)
     {
         Console.WriteLine($"To: {recipient}");
         Console.WriteLine($"Message: {message}");
