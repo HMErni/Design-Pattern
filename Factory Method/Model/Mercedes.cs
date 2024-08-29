@@ -19,6 +19,6 @@ public class Mercedes : ICar
 
     public void Stop()
     {
-        Console.WriteLine($"The {_model} is starting...");
+        Console.WriteLine($"The {_model} is stopping...");
     }
 }
